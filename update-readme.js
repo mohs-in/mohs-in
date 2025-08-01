@@ -7,8 +7,7 @@ const blogBaseUrl = 'https://mohsinkhansab.hashnode.dev/';
 const data = JSON.parse(fs.readFileSync(blogDataPath, 'utf-8'));
 
 let latestPosts = data.posts
-  .filter(post => !post.draft) // only published
-  .sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt))
+  .filter(post => post.isActive) // only published
   .slice(0, 5) // last 5 posts
   .map(post => `- [${post.title}](${blogBaseUrl}${post.slug}) - ${post.metaDescription || ''} (${post.createdAt.substring(0,10)})`)
   .join('\n');
