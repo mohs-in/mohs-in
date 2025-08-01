@@ -24,7 +24,8 @@ Here’s a quick glance at what I’m working on, learning, and sharing lately:
 ---
 
 ## 📕 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
