@@ -25,7 +25,10 @@ Here’s a quick glance at what I’m working on, learning, and sharing lately:
 
 ## 📕 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-
+- [Introduction to Computer Networks: Key Concepts and Basics](https://mohsinkhansab.hashnode.dev/introduction-to-computer-networks-key-concepts-and-basics) - Learn the essential concepts of computer networks, the OSI model, and the critical layers that enable our connected digital world (2025-07-24)
+- [Selection Sort Algorithm in Javascript](https://mohsinkhansab.hashnode.dev/selection-sort-algorithm-in-javascript) - Learn how to implement the Selection Sort algorithm in JavaScript efficiently with code examples and detailed explanations (2024-11-25)
+- [What You Need to Know About Cloud Computing](https://mohsinkhansab.hashnode.dev/what-you-need-to-know-about-cloud-computing) - Learn about the essentials of cloud computing, its advantages, and deployment models. Discover AWS services, regions, and availability zones (2024-09-14)
+- [Key React Hooks Explained: useState, useEffect, and useContext](https://mohsinkhansab.hashnode.dev/key-react-hooks-explained) - Understand React hooks like `useState`, `useEffect`, and `useContext` for managing state, handling side effects, and avoiding prop drilling (2024-06-29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
